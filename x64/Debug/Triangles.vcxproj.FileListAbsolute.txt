@@ -1,0 +1,4 @@
+C:\Users\Masoud\source\repos\Triangles\x64\Debug\Triangles.exe
+C:\Users\Masoud\source\repos\Triangles\x64\Debug\Triangles.pdb
+E:\My Projects\Repositories\Triangles\x64\Debug\Triangles.exe
+E:\My Projects\Repositories\Triangles\x64\Debug\Triangles.pdb
